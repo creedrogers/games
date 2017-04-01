@@ -134,6 +134,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Protocol 390](https://github.com/josegallegos07/game-off-2013) - To survive in People's Park, you must supply the prophet with change. [Play it now!](http://josegallegos.info/game-off-2013/Protocol390/index.html)
 * [Raging Gardens](https://github.com/petarov/game-off-2012) - Javascript/HTML5 web browser game where a a hungry (ninja) rabbit farts too often. [Play it now!](http://petarov.github.io/game-off-2012/)
 * [Release Cycles](https://github.com/RothschildGames/release-cycles) - Abstract racing game where you fight against the clock and the computer to get as far as you can in a product's life-cycle.
+* [Save The Forest](https://github.com/softvar/save-the-forest) - Save the burning forest! [Play it now!](http://js13kgames.com/games/save-the-forest/index.html)
 * [Ski Free](https://github.com/basicallydan/skifree.js) - JavaScript port of the classic PC Game, Skifree. [Play it now!](http://basicallydan.github.com/skifree.js)
 * [Snake](https://github.com/jrgdiz/snake) - Clone of the classic Snake game. [Play it now!](http://diz.es/snake/)
 * [Space-Shooter](https://github.com/Couchfriends/Space-Shooter) - A classic shoot'em up space shooter build in HTML5 with multiplayer. [Play it now!](http://couchfriends.com/games/5)
@@ -154,8 +155,8 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 ## RPG
 
-* [Diablo JS](https://github.com/mitallast/diablo-js) - Isometric minimal-code style game at html5 canvas and javascript.
-* [Roguish](https://github.com/CamHenlin/Roguish) - RPG/Rogue-like game created in JavaScript. [Play it now!](http://henlin.org/roguish/)
+* [Diablo JS](https://github.com/mitallast/diablo-js) - Isometric minimal-code style game at html5 canvas and javascript.  [Play it now!](http://mitallast.github.io/diablo-js/)
+* [Roguish](https://github.com/CamHenlin/Roguish) - RPG/Rogue-like game created in JavaScript. [Play it now!](http://roguish.rocks/)
 * [Room for Change](https://github.com/antionio/game-off-2013) - Randomly generated action RPG. [Play it now!](http://www.sturdyhelmetgames.com/roomforchange_html)
 
 ## MMORPG
@@ -185,7 +186,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [0hh0](https://github.com/Q42/0hn0) - Companion game to 0hh1 by Q42. [Play it now!](http://0hh0.com)
 * [0hh1](https://github.com/Q42/0hh1) - Lovely little logic game by Q42. [Play it now!](http://0hh1.com)
 * [2048](https://github.com/gabrielecirulli/2048) - Sliding addition game [Play it now!](http://gabrielecirulli.github.io/2048/)
-* [A Dark Room](https://github.com/Continuities/adarkroom) - Minimalist Text Adventure game written in JavaScript. [Play it now!](http://adarkroom.doublespeakgames.com/)
+* [A Dark Room](https://github.com/doublespeakgames/adarkroom) - Minimalist Text Adventure game written in JavaScript. [Play it now!](http://adarkroom.doublespeakgames.com/)
 * [Anagramica](https://github.com/binarymax/anagramica) - A word game and API for anagrams. [Play it now!](http://www.anagramica.com/)
 * [Astry](https://github.com/wwwtyro/Astray) - WebGL maze game built with Three.js and Box2dWeb. [Play it now!](http://wwwtyro.github.io/Astray/)
 * [Beatrix](https://github.com/cxong/Beatrix) - Music game where you arrange the drums to catch the beats and play the right rhythm. [Play it now!](http://gamejolt.com/games/puzzle/beatrix/27454/)
@@ -193,6 +194,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Blockrain.js](https://github.com/Aerolab/blockrain.js) - Embed & play the classic game on your site. Simple as that. [Play it now!](http://aerolab.github.io/blockrain.js/)
 * [Branching Out](https://github.com/thehen/game-off-2012) - Minimalist game about leaving home. [Play it now!](http://henryhoffman.com/branchingout/)
 * [Clone Man](https://github.com/adhicl/game-off-2012) - Puzzle, memory, retro game with simple graphics. [Play it now!](http://www.kongregate.com/games/Sorobaid/clone-man)
+* [Couch 2048](https://github.com/mvasilkov/glitch2016) - A physics-based puzzle, loosely related to the original 2048 game. [Play it now!](http://js13kgames.com/games/couch-2048/index.html)
 * [cube-composer](https://github.com/sharkdp/cube-composer) - A puzzle game inspired by functional programming. [Play it now!](http://david-peter.de/cube-composer)
 * [Drunken Viking](https://github.com/cxong/DrunkenViking) - Retrace your drunken rampage in reverse time. [Play it now!](http://congusbongus.itch.io/drunken-viking)
 * [Ending](http://robotacid.com/flash/ending) - Roguelike puzzle game. [Play it now!](http://robotacid.com/flash/ending/)
@@ -251,6 +253,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Epic Inventor](https://github.com/BlkStormy/epic-inventor) - Indie, side-scrolling, action, RPG.
 * [Falling Time](https://github.com/cxong/FallingTime) - Arcade game inspired by Fall Down.
 * [Kroniax](https://github.com/AlexAUT/Kroniax) - Sidescrolling skill-based game.
+* [Missile Command](https://github.com/chadpaulson/missile-command) - Missile Command clone in Lua with LÖVE.
 * [Mystic Mine](https://github.com/koonsolo/MysticMine) - Single and multiplayer action game with mining carts.
 * [OpenLieroX](https://github.com/albertz/openlierox) - Liero clone, like realtime Worms, or a 2D Quake.
 * [OSGG] (https://github.com/DusteDdk/Osgg) - Oldskool Gravity Game, very difficult lander game in glorious vector graphics.
@@ -292,6 +295,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Dungeon Monkey Eternal](https://github.com/jwvhewitt/dmeternal) - Party-based fantasy roguelike role-playing game.
 * [Egoboo](https://github.com/egoboo/egoboo) - Cool 3D dungeon crawling game in the spirit of NetHack.
 * [Flare RPG](https://github.com/clintbellanger/flare-game) - Fantasy action RPG game with its own engine.
+* [Freeablo](https://github.com/wheybags/freeablo) - Open-source implementation of the Diablo I engine.
 * [Monster 1](https://github.com/Nooskewl/monster) - Classic-style J-RPG, prequel to Monster RPG 2.
 * [Monster RPG 2](https://github.com/Nooskewl/monster-rpg-2) - Turn-based J-RPG in a fantasy universe.
 * [NetHack](https://github.com/NetHack/NetHack) - Single-player roguelike dungeon exploration game and one of the most popular games in its genre.
@@ -391,6 +395,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 ## Android
 
 * [ChaseWhisplyProject](https://github.com/tvbarthel/ChaseWhisplyProject) - Chase Whisply is a FPS. You have to seek, find and kill the ghosts living around you.
+* [Colorphun](https://github.com/prakhar1989/colorphun) - ColorPhun is a simple color based Android Game.
 * [Game of Life](https://github.com/zsoltk/GameOfLife) - Conway's Game of Life with editable rules
 * [Gidi Games](https://github.com/chuvidi2003/GidiGames) - Lexis, TicTacToe, Puzzlemania - a collection of 3 board games done with Cocos2d for Android.
 * [Green Mahjong](https://github.com/danbeck/green-mahjong) - Solitaire mahjong game done in HTML/CSS/JS.
@@ -480,6 +485,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [melonJS](https://github.com/melonjs/melonJS) - HTML5 game framework for 2D games.
 * [MonoGame](https://github.com/mono/MonoGame) - XNA Implementation for Mono based platforms (supports iOS, Android, Linux, and started work on PS Suite and NaCli ).
 * [Oimo.js](https://github.com/lo-th/Oimo.js) - Lightweight 3d physics engine for javascript.
+* [OpenRTS](https://github.com/methusalah/OpenRTS) - Real-Time Strategy game 3D engine coded in java 7.
 * [Oxygine](https://github.com/oxygine/oxygine-framework) - C++ engine and framework for 2D games on iOS, Android, Windows, Linux and Mac.
 * [panda.js](https://github.com/ekelokorpi/panda.js) - Free HTML5 game engine for mobile and desktop with Canvas and WebGL rendering.
 * [Phaser](https://github.com/photonstorm/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
